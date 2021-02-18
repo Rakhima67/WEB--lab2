@@ -33,6 +33,7 @@
         margin: auto;
     }
     .row{
+    rrrrrrr
         display: flex;
         flex-wrap: wrap;
     }
